@@ -1,0 +1,6 @@
+{
+  "name": "OmniTask AI – Autonomous Productivity Agent",
+  "description": "An autonomous AI agent workstation that automates complex daily tasks, executive briefings, scheduling, email correspondence, deep research, and workflow pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
